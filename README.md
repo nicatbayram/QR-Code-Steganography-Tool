@@ -57,3 +57,6 @@ This is a Python application that allows you to generate and decode QR codes wit
     - Enter the password used for encryption, then click "Decode QR Code" to retrieve the original message.
 
 ## ScreenShots
+
+<img width="400" alt="pg11" src="https://github.com/user-attachments/assets/bb89f6e6-7ad2-4030-9c76-99797a4e4ce1" />
+<img width="400" alt="pg11" src="https://github.com/user-attachments/assets/0cc0b8a7-676a-4458-b5f9-0941f7c9d4ff" />
